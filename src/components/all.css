@@ -167,6 +167,9 @@ svg {
     border-top: 5px solid #766d6d;
     position: absolute;
 }
+.mini-repo {
+    padding: 10px 0;
+}
 @media screen and (min-width: 768px) {
     .__max-width {
         padding: 50px 26px;
@@ -235,6 +238,18 @@ svg {
     }
 }
 
+@media screen and (max-width: 767px) {
+    .repo-container .buttons {
+        justify-content: space-between;
+    }
+    .repo-container .buttons button {
+        width: 45%;
+        margin-top: 20px
+    }
+    .line {
+        margin-top: 20px;
+    }
+}
 
 
 
