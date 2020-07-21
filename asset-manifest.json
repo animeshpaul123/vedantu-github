@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vedantu-github/static/css/main.3f231516.chunk.css",
+    "main.css": "/vedantu-github/static/css/main.7a53091e.chunk.css",
     "main.js": "/vedantu-github/static/js/main.05629524.chunk.js",
     "main.js.map": "/vedantu-github/static/js/main.05629524.chunk.js.map",
     "runtime-main.js": "/vedantu-github/static/js/runtime-main.a170c05a.js",
@@ -9,17 +9,17 @@
     "static/js/2.15a1b801.chunk.js": "/vedantu-github/static/js/2.15a1b801.chunk.js",
     "static/js/2.15a1b801.chunk.js.map": "/vedantu-github/static/js/2.15a1b801.chunk.js.map",
     "index.html": "/vedantu-github/index.html",
-    "precache-manifest.a60b1578099eacb897e31b5683789c02.js": "/vedantu-github/precache-manifest.a60b1578099eacb897e31b5683789c02.js",
+    "precache-manifest.5ec0b9f1efa2b561b6c05161a5b49d6a.js": "/vedantu-github/precache-manifest.5ec0b9f1efa2b561b6c05161a5b49d6a.js",
     "service-worker.js": "/vedantu-github/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/vedantu-github/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.3f231516.chunk.css.map": "/vedantu-github/static/css/main.3f231516.chunk.css.map",
+    "static/css/main.7a53091e.chunk.css.map": "/vedantu-github/static/css/main.7a53091e.chunk.css.map",
     "static/js/2.15a1b801.chunk.js.LICENSE.txt": "/vedantu-github/static/js/2.15a1b801.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a170c05a.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.15a1b801.chunk.js",
-    "static/css/main.3f231516.chunk.css",
+    "static/css/main.7a53091e.chunk.css",
     "static/js/main.05629524.chunk.js"
   ]
 }

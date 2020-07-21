@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vedantu-github/precache-manifest.a60b1578099eacb897e31b5683789c02.js"
+  "/vedantu-github/precache-manifest.5ec0b9f1efa2b561b6c05161a5b49d6a.js"
 );
 
 self.addEventListener('message', (event) => {
